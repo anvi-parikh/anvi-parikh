@@ -1,4 +1,4 @@
-## Hi I'm Anvi Parikh 👋
+## Hi I'm Anvi 👋
 
 Data Science | Business Analyst
 
